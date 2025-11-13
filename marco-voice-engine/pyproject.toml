@@ -10,6 +10,9 @@ dependencies = [
     "faiss-cpu",
     "python-dotenv==1.0.1",
     "python-telegram-bot==21.6",
+    "fastapi",
+    "uvicorn[standard]",
+    "supabase",
 ]
 
 [project.optional-dependencies]
