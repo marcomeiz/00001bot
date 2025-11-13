@@ -1,0 +1,230 @@
+{
+  "total_categories": 2,
+  "total_themes": 53,
+  "categories": [
+    {
+      "category": "Focus, Productivity & Business Architecture",
+      "total_themes": 25,
+      "themes": [
+        {
+          "id": 1,
+          "theme": "You don't need more time. You need mental architecture that protects your focus from chaos."
+        },
+        {
+          "id": 2,
+          "theme": "Context switching steals weeks a year. Without batching, you'll never hit real flow."
+        },
+        {
+          "id": 3,
+          "theme": "Decision fatigue kills clarity. Your brain needs rules, not daily improvisation."
+        },
+        {
+          "id": 4,
+          "theme": "Urgency is theater. What's truly important never screams. Guard your Quadrant 2 or your business ages fast."
+        },
+        {
+          "id": 5,
+          "theme": "Perfectionism is operational debt. It blocks delegation, automation, and consistent shipping."
+        },
+        {
+          "id": 6,
+          "theme": "The \"do-it-all\" identity keeps you broke. The real move is architect mode: build the system that works for you."
+        },
+        {
+          "id": 7,
+          "theme": "Solitude multiplies overload. Without an external mirror, your decisions drift and slow down."
+        },
+        {
+          "id": 8,
+          "theme": "Start with Value vs Effort. Kill the time sinks, double down on quick wins. Strategy in 10 minutes."
+        },
+        {
+          "id": 9,
+          "theme": "OST (Objective-Strategy-Tactics): if you can't trace the chain, you're busy, not progressing."
+        },
+        {
+          "id": 10,
+          "theme": "The Impact-to-Time ratio exposes fake work. Most of your day doesn't move the needle."
+        },
+        {
+          "id": 11,
+          "theme": "A Personal Operating System kills micro-decisions. Rituals, fixed windows, clear rules."
+        },
+        {
+          "id": 12,
+          "theme": "Big blocks + buffers: two sacred focus blocks a day. Everything reactive stays in its cage."
+        },
+        {
+          "id": 13,
+          "theme": "Notifications OFF. Your attention is private property, not public infrastructure."
+        },
+        {
+          "id": 14,
+          "theme": "Automate after 10 reps and ROI ≥4×. Automating chaos just scales the mess."
+        },
+        {
+          "id": 15,
+          "theme": "Light delegation: freelancers for outcomes. Speed without friction or payroll."
+        },
+        {
+          "id": 16,
+          "theme": "Keep a lean stack with ROI: AI, calendar, newsletter, payments, automation. Nothing ornamental."
+        },
+        {
+          "id": 17,
+          "theme": "Measure what's real: % of week in Quadrant 2, context switches, shallow hours, revenue per hour, burnout score."
+        },
+        {
+          "id": 18,
+          "theme": "Real benchmarks: $1K MRR survival, $5K ramen, $10K salary, $25K freedom, $50K+ decision time."
+        },
+        {
+          "id": 19,
+          "theme": "Solo phases: 0–5K manual learning, 5–10K marketing mode, 10–25K systems, 25–50K automation."
+        },
+        {
+          "id": 20,
+          "theme": "Product defines load: SaaS = support, info = marketing, marketplace = double complexity."
+        },
+        {
+          "id": 21,
+          "theme": "Plateau ≠ failure. It's the tax you pay for building systems that later compound."
+        },
+        {
+          "id": 22,
+          "theme": "Restriction is a feature. It kills noise and forces what actually matters."
+        },
+        {
+          "id": 23,
+          "theme": "Intentional micro-switching sparks creativity. Random interruptions kill it."
+        },
+        {
+          "id": 24,
+          "theme": "Weekly DoD: one strategic move shipped, one SOP or automation added, metrics updated."
+        },
+        {
+          "id": 25,
+          "theme": "Your business doesn't grow when you work more. It grows when your decisions get sharper."
+        }
+      ]
+    },
+    {
+      "category": "Delegación, Escalabilidad & Evolución del Fundador",
+      "total_themes": 28,
+      "themes": [
+        {
+          "id": 1,
+          "theme": "El mayor cuello de botella de tu negocio eres tú mismo. El crecimiento se estanca cuando tu capacidad llega al límite."
+        },
+        {
+          "id": 2,
+          "theme": "Operar en solitario hace el crecimiento casi imposible. El crecimiento requiere apalancamiento: capital o tiempo ajeno."
+        },
+        {
+          "id": 3,
+          "theme": "'Nadie lo hará tan bien como yo' no es perfeccionismo, es auto-sabotaje. Este mantra te mantiene atrapado en ciclos de agotamiento."
+        },
+        {
+          "id": 4,
+          "theme": "El patrón mortal: delegar, no confiar en el resultado, hacerlo tú mismo de nuevo, agotarte, culpar al equipo, volver a trabajar solo."
+        },
+        {
+          "id": 5,
+          "theme": "Para un solopreneur no hay cortafuegos. Eres la marca, el motor y el rostro. Un error ajeno daña directamente tu reputación."
+        },
+        {
+          "id": 6,
+          "theme": "El síndrome de dependencia del fundador: te conviertes en el único punto de decisión. La delegación es superficial, no real."
+        },
+        {
+          "id": 7,
+          "theme": "'Es más rápido hacerlo yo mismo' es la trampa del descuento temporal. Ignoras el coste acumulado de quedarte atrapado en lo operativo."
+        },
+        {
+          "id": 8,
+          "theme": "El sesgo de identidad: delegar se siente como admitir que no puedes hacerlo todo. Choca con tu autoimagen de héroe fundador."
+        },
+        {
+          "id": 9,
+          "theme": "Has invertido tanto en cada proceso que delegarlo se siente como desperdiciar tu conocimiento. Eso es la falacia del coste hundido."
+        },
+        {
+          "id": 10,
+          "theme": "La resistencia a delegar no es un defecto de personalidad. Es una respuesta compleja a la estructura de alto riesgo del solopreneurship."
+        },
+        {
+          "id": 11,
+          "theme": "Añadir un gasto fijo a ingresos variables se percibe como amenaza existencial, no como inversión. Por eso postergamos contratar."
+        },
+        {
+          "id": 12,
+          "theme": "La mayoría de pequeños negocios fracasan porque los inicia un Técnico que sufre un 'ataque emprendedor'."
+        },
+        {
+          "id": 13,
+          "theme": "Tres roles del fundador: El Técnico hace el trabajo. El Gerente crea sistemas. El Emprendedor diseña el futuro."
+        },
+        {
+          "id": 14,
+          "theme": "El muro de escalabilidad aparece cuando el Técnico se niega a ceder control al Gerente y al Emprendedor."
+        },
+        {
+          "id": 15,
+          "theme": "El rol que te llevó al éxito inicial (Técnico) es el mismo que ahora te está frenando. Acepta la crisis de identidad."
+        },
+        {
+          "id": 16,
+          "theme": "El objetivo no es construir un trabajo que dependa de ti. Es construir un negocio que funcione independientemente de ti."
+        },
+        {
+          "id": 17,
+          "theme": "La confianza no se puede forzar, pero sí diseñar. Los SOPs son la infraestructura que sistematiza la confianza."
+        },
+        {
+          "id": 18,
+          "theme": "Un SOP transfiere conocimiento tácito de tu cabeza a formato explícito, repetible y medible. Es el antídoto al miedo de pérdida de calidad."
+        },
+        {
+          "id": 19,
+          "theme": "Escribe SOPs como si fueran instrucciones para tu madre. Lenguaje claro, visual, sin jerga. El objetivo: eliminar ambigüedad."
+        },
+        {
+          "id": 20,
+          "theme": "Empieza delegando tareas de bajo valor: las que odias o donde tienes poca habilidad. Son tu campo de entrenamiento de bajo coste."
+        },
+        {
+          "id": 21,
+          "theme": "Contrata un VA por 5-10 horas semanales antes que un empleado full-time. Aprende a gestionar y confiar sin gran riesgo financiero."
+        },
+        {
+          "id": 22,
+          "theme": "Delegación superficial: asignar tareas. Delegación profunda: asignar propiedad de resultados. La diferencia es radical."
+        },
+        {
+          "id": 23,
+          "theme": "Establece límites de decisión claros: ¿Qué puede decidir sin ti? ¿Cuándo debe consultarte? ¿Qué requiere tu aprobación final?"
+        },
+        {
+          "id": 24,
+          "theme": "Transformar colaboradores de ejecutores a solucionadores de problemas libera al fundador del cuello de botella de tomar todas las decisiones."
+        },
+        {
+          "id": 25,
+          "theme": "La delegación exitosa no es abdicación. Es reorientación estratégica hacia actividades de alto apalancamiento que solo tú puedes hacer."
+        },
+        {
+          "id": 26,
+          "theme": "Tu zona de genialidad: visión de producto, estrategia de marca, alianzas clave, innovación. Ahí es donde debes invertir tu tiempo."
+        },
+        {
+          "id": 27,
+          "theme": "El objetivo final: ser querido, no necesitado en las operaciones diarias. Ese es el verdadero significado de escalar."
+        },
+        {
+          "id": 28,
+          "theme": "Escalar significa construir un activo que crece más allá de la suma de tus propias horas. Sin delegación, solo tienes un trabajo caro."
+        }
+      ]
+    }
+  ]
+}

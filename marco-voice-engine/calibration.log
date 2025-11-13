@@ -1,0 +1,354 @@
+
+=== IDEA ===
+You worked 60 hours last week and nothing moved.
+
+ACCEPTED:
+[B_retry] 0.527 | Working 60 hours and seeing nothing move? It’s not about the hours; it’s about the focus. Cut the fat, prioritize ruthlessly, and get the needle moving.
+[B_retry] 0.584 | 60 hours down, zero progress. Time to get real: are you grinding or just spinning your wheels? Identify the core tasks and double down.
+
+REJECTED:
+[A] 0.468 | Hours logged means nothing. You can grind 60 and still be in the same place because you never decided what actually matters. || too_generic_sim<0.50
+[A] 0.360 | Worked 60 hours last week? Cool. Name one thing that's different now. || too_generic_sim<0.50
+[A] 0.456 | The difference between motion and progress is ruthless prioritization. Most people just optimized how busy they feel. || too_generic_sim<0.50
+[B] 0.442 | You worked 60 hours last week and nothing moved. Time to reassess your priorities and kill the busywork. || too_generic_sim<0.50
+[B] 0.452 | 60 hours down, zero progress. If your efforts aren't moving the needle, you're just spinning your wheels. || too_generic_sim<0.50
+[B] 0.433 | Working 60 hours and seeing nothing change? Maybe it’s time to pivot or cut the dead weight dragging you down. || too_generic_sim<0.50
+[A_retry] 0.354 | You logged 60 hours but your metrics didn't move. That's not work, that's hiding. || too_generic_sim<0.50
+[A_retry] 0.468 | Busy isn't the same as effective. You can grind all week and still be in the exact same place if you're working on the wrong thing. || too_generic_sim<0.50
+[A_retry] 0.399 | Time spent means nothing. You either shipped something that mattered or you didn't. || too_generic_sim<0.50
+[B_retry] 0.487 | 60 hours last week and nothing to show for it? Time to reassess. Are you busy or are you moving the needle? The difference is in the impact, not the hours. || too_generic_sim<0.50
+
+=== IDEA ===
+If you don't log decisions, you'll re-argue the same shit every quarter.
+
+ACCEPTED:
+- None
+
+REJECTED:
+[A] 0.375 | Write down why you decided. Six months later when someone questions it, you'll have the answer instead of burning three hours re-litigating dead context. || too_generic_sim<0.50
+[A] 0.358 | Teams that don't document decisions spend half their time rewinding arguments they already settled. Log it or loop forever. || too_generic_sim<0.50
+[A] 0.438 | If you don't write down what you decided and why, you're just renting decisions. Every quarter you'll pay for the same one again. || too_generic_sim<0.50
+[B] 0.360 | If you don't log decisions, you'll re-argue the same shit every quarter. Document it, or you're doomed to repeat it. || too_generic_sim<0.50
+[B] 0.405 | Without a decision log, you'll waste cycles rehashing old debates. Capture it, or lose it. || too_generic_sim<0.50
+[B] 0.397 | Decisions not logged are decisions forgotten. You’ll end up in the same meetings, arguing the same points, every damn quarter. || too_generic_sim<0.50
+[A_retry] 0.351 | Your team will re-litigate the same decision three times because nobody wrote down why you chose A over B. Document the why, not just the what. || too_generic_sim<0.50
+[A_retry] 0.471 | If you don't log decisions, you're not building a company. You're running a debate club that resets every quarter. || too_generic_sim<0.50
+[A_retry] 0.296 | Undocumented decisions don't exist. You'll waste hours next month re-arguing what you already settled today because someone "doesn't remember it that way." || too_generic_sim<0.50
+[B_retry] 0.398 | Not logging decisions is like driving in circles. You’ll re-argue the same shit every quarter. Write it down, move forward. || too_generic_sim<0.50
+[B_retry] 0.376 | If you don’t track your decisions, you’ll waste time re-litigating the same issues. Document it, learn, and move on. || too_generic_sim<0.50
+[B_retry] 0.332 | Without a decision log, you’re doomed to repeat the same debates. Get it in writing and stop the cycle. || too_generic_sim<0.50
+
+=== IDEA ===
+Stop doing free audits for people who never had budget.
+
+ACCEPTED:
+- None
+
+REJECTED:
+[A] 0.401 | Free audits are spec work for people practicing negotiation on you. If they had budget, they'd have opened with it. || too_generic_sim<0.50
+[A] 0.401 | You're not "building trust" with a free audit. You're teaching them your time has no price. Stop it. || too_generic_sim<0.50
+[A] 0.376 | Every hour you spend auditing someone who can't pay is an hour you didn't spend closing someone who can. Choose better. || too_generic_sim<0.50
+[B] 0.454 | Stop doing free audits for people who never had budget. You're just wasting your time and resources on dead ends. || too_generic_sim<0.50
+[B] 0.343 | If they didn't have budget from the start, no amount of free work will change that. Stop the audits, focus on real prospects. || too_generic_sim<0.50
+[B] 0.350 | Free audits for no-budget clients? Cut that out. You’re not helping them, and you’re definitely not helping yourself. || too_generic_sim<0.50
+[A_retry] 0.396 | Free audits are spec work for people who were never going to pay you. If they don't have budget now, they won't have it after you solve their problem for free. || too_generic_sim<0.50
+[A_retry] 0.359 | You're not "building trust" with a free audit. You're teaching them your time has no value. || too_generic_sim<0.50
+[A_retry] 0.390 | Stop auditing broke prospects. If they can't buy without seeing your work first, they can't buy. || too_generic_sim<0.50
+[B_retry] 0.418 | Stop doing free audits for people who never had budget. You're just burning your own time and resources. Cut the dead weight. || too_generic_sim<0.50
+[B_retry] 0.436 | Free audits for no-budget clients? Stop it. They won't pay you later, and you're better off focusing on those who value your work. || too_generic_sim<0.50
+[B_retry] 0.385 | If they didn't have budget from the start, a free audit won't change that. Save your time for clients who actually need and can afford your expertise. || too_generic_sim<0.50
+
+=== IDEA ===
+You don't need more leads, you need to stop losing the ones you already paid for.
+
+ACCEPTED:
+- None
+
+REJECTED:
+[A] 0.341 | Your conversion problem isn't traffic. It's the 80% who ghost after signing up because your onboarding sucks. || too_generic_sim<0.50
+[A] 0.373 | You spent $40 per lead. Then let them hit a broken signup flow, wait 3 days for access, and never hear from you again. Fix the leak before you fill the bucket. || too_generic_sim<0.50
+[A] 0.422 | Most founders obsess over CAC. Almost none track how many qualified leads they lose between click and activation. That's where your money dies. || too_generic_sim<0.50
+[B] 0.334 | Stopping the bleeding is more important than getting new blood. Fix your leaky funnel before you pour more leads in. || too_generic_sim<0.50
+[B] 0.314 | You're hemorrhaging the leads you already paid for. Plug the holes in your process, or you'll keep losing no matter how many you get. || too_generic_sim<0.50
+[B] 0.394 | More leads won't fix a broken system. Focus on retaining the ones you've already invested in, or you'll just waste more money. || too_generic_sim<0.50
+[A_retry] 0.324 | You're spending thousands on acquisition while your follow-up system is a spreadsheet you haven't opened in three weeks. || too_generic_sim<0.50
+[A_retry] 0.433 | Most founders obsess over traffic. The real leak is between first contact and second reply. || too_generic_sim<0.50
+[A_retry] 0.348 | Stop buying more leads. Your conversion problem is that you forget people exist after they say yes the first time. || too_generic_sim<0.50
+[B_retry] 0.375 | You don't need more leads. You need to stop losing the ones you already paid for. Focus on retention, not acquisition. || too_generic_sim<0.50
+[B_retry] 0.395 | Stop chasing new leads and fix your leaky funnel. The money you spend on ads is wasted if you can't keep the customers you already have. || too_generic_sim<0.50
+[B_retry] 0.358 | Before you spend another dime on lead generation, figure out why you're losing the ones you already paid for.Retention is the real ROI. || too_generic_sim<0.50
+
+=== IDEA ===
+Protect 2 days a week with zero calls or you will never build anything real.
+
+ACCEPTED:
+[A] 0.570 | Every founder says they're building. Most are just professionally busy. Protect full days with no interruptions or join them.
+[B] 0.575 | If you want to build something real, block off 2 days a week with zero calls. No distractions, just deep work. It’s non-negotiable.
+[B] 0.526 | Two days a week, no calls, no meetings. That’s when the real building happens. Guard this time like it’s gold.
+[B] 0.559 | You won’t build anything meaningful if you’re constantly on calls. Carve out 2 days a week for zero interruptions. It’s the only way to get deep work done.
+
+REJECTED:
+[A] 0.451 | Two full days a week with zero meetings or you'll spend your entire life talking about work instead of doing it. || too_generic_sim<0.50
+[A] 0.457 | You can't build anything real in the gaps between calls. Block off days, not hours. || too_generic_sim<0.50
+
+=== IDEA ===
+If your ops live in your head, you're the bottleneck, not the hero.
+
+ACCEPTED:
+[B_retry] 0.564 | Your brain isn't a vault for ops. Write it down, delegate, and free yourself from being the only one who knows.
+
+REJECTED:
+[A] 0.368 | If your ops live in your head, you're the bottleneck, not the hero. || too_generic_sim<0.50
+[A] 0.470 | The moment you realize you're irreplaceable is the moment you've built a job, not a company. || too_generic_sim<0.50
+[A] 0.473 | Founders who hoard process knowledge aren't protecting the company—they're capping its ceiling at their own bandwidth. || too_generic_sim<0.50
+[B] 0.356 | When your ops are in your head, you're the bottleneck. Not the hero. || too_generic_sim<0.50
+[B] 0.403 | If your operations live in your head, you're the roadblock, not the savior. || too_generic_sim<0.50
+[B] 0.399 | Your brain isn't a scalable system. If your ops are stuck there, you're the problem. || too_generic_sim<0.50
+[A_retry] 0.379 | You're not indispensable because you remember everything. You're just refusing to build the system that would replace you. || too_generic_sim<0.50
+[A_retry] 0.424 | If nobody else can run it without you, you haven't built a process. You've built a dependency on your memory. || too_generic_sim<0.50
+[A_retry] 0.452 | The ops in your head don't scale. Write them down or watch your team wait for you to make every decision. || too_generic_sim<0.50
+[B_retry] 0.409 | When your ops are in your head, you're the bottleneck. Delegation isn't just about trust; it's about survival. || too_generic_sim<0.50
+[B_retry] 0.443 | If your operations live in your head, you're not scaling. You're just a one-person show waiting to collapse. || too_generic_sim<0.50
+
+=== IDEA ===
+Client pays late? Your process is vague, not their ethics.
+
+ACCEPTED:
+- None
+
+REJECTED:
+[A] 0.333 | Late payments aren't a character flaw. They're a clarity problem. If your invoice doesn't specify the exact date and consequence, you built the confusion yourself. || too_generic_sim<0.50
+[A] 0.329 | You don't have a client problem, you have a terms problem. Vague agreements produce vague behavior. || too_generic_sim<0.50
+[A] 0.315 | Client paid 60 days late? Check your contract. If it doesn't say "net 15 or we stop," you gave them permission. || too_generic_sim<0.50
+[B] 0.378 | Client pays late? It's not their ethics, it's your vague process. Tighten up your terms and get paid on time. || too_generic_sim<0.50
+[B] 0.355 | Late payments? Blame your process, not the client. Clear terms and strict follow-up fix this. || too_generic_sim<0.50
+[B] 0.382 | If clients pay late, your process is the issue. Vague terms and lax follow-up are costing you. Tighten up. || too_generic_sim<0.50
+[A_retry] 0.337 | Late payments aren't a character problem. They're a clarity problem. If your invoice terms need a lawyer to decode, you built the delay yourself. || too_generic_sim<0.50
+[A_retry] 0.328 | Client paid 60 days late? Check your contract. If it says "net 30" but doesn't specify what happens on day 31, you wrote them permission to ignore you. || too_generic_sim<0.50
+[A_retry] 0.331 | Stop blaming clients for late payment. Your scope doc was vague, your invoice was confusing, and your follow-up was whenever you remembered. That's on you. || too_generic_sim<0.50
+[B_retry] 0.378 | Client pays late? It's not their ethics, it's your vague process. Tighten up. || too_generic_sim<0.50
+[B_retry] 0.347 | Late payments? Blame your fuzzy process, not the client's ethics. Clarity first. || too_generic_sim<0.50
+[B_retry] 0.395 | If clients pay late, it's your process that's unclear, not their morals. Fix the system. || too_generic_sim<0.50
+
+=== IDEA ===
+If every week is 'exceptional', your system is shit, not your calendar.
+
+ACCEPTED:
+- None
+
+REJECTED:
+[A] 0.444 | If you're always firefighting, you don't have operational problems. You have a system that runs on chaos because you never built one that doesn't. || too_generic_sim<0.50
+[A] 0.353 | Constant emergencies mean your infrastructure is the emergency. || too_generic_sim<0.50
+[A] 0.353 | When your baseline is broken, every week looks like an exception. Fix the default, not the calendar. || too_generic_sim<0.50
+[B] 0.406 | If every week feels like a crisis, your system is broken, not your calendar. Fix the process, not the dates. || too_generic_sim<0.50
+[B] 0.385 | When every week is an "exception," it’s not your calendar that’s the problem. It’s your system. Time to rewire. || too_generic_sim<0.50
+[B] 0.390 | If you're constantly treating every week as an emergency, your system is the issue, not your schedule. Address the root. || too_generic_sim<0.50
+[A_retry] 0.442 | If every week feels like a crisis, you don't have urgency. You have chaos dressed up as productivity. || too_generic_sim<0.50
+[A_retry] 0.370 | Constant firefighting isn't hustle. It's proof your system can't handle normal load. || banned_substring:hustle,too_generic_sim<0.50
+[A_retry] 0.422 | When nothing is routine, everything becomes reactive. That's not execution—it's just expensive thrashing. || too_generic_sim<0.50
+[B_retry] 0.363 | If every week is 'exceptional', your system is shit, not your calendar. Time to reassess your processes, not your planner. || too_generic_sim<0.50
+[B_retry] 0.411 | When every week feels like a crisis, it's not your calendar that's broken. It's your system. Fix it. || too_generic_sim<0.50
+[B_retry] 0.371 | Exceptional weeks shouldn't be the norm. If they are, your system is flawed, not your schedule. Time to recalibrate. || too_generic_sim<0.50
+
+=== IDEA ===
+You confuse motion with progress because chaos makes you feel important.
+
+ACCEPTED:
+[A] 0.565 | Chaos isn't productivity. It's just expensive procrastination with better optics.
+[B] 0.501 | Chaos isn't progress; it's just noise. You feel important, but you're not getting anywhere. Focus on real results.
+
+REJECTED:
+[A] 0.339 | You're not busy. You're just addicted to the feeling of being needed. || too_generic_sim<0.50
+[A] 0.469 | Most people optimize for looking productive instead of being effective. The calendar stays full. The work stays shallow. || too_generic_sim<0.50
+[B] 0.422 | You confuse motion with progress because chaos makes you feel important. Stop running in circles and start moving the needle. || too_generic_sim<0.50
+[B] 0.460 | Feeling busy isn't the same as making progress. Chaos is a crutch. Strip it down and build something that matters. || too_generic_sim<0.50
+
+=== IDEA ===
+A solo founder that never says no is just an underpaid employee.
+
+ACCEPTED:
+[B] 0.518 | If you're a solo founder and you can't say no, you're just an underpaid employee with a fancier title.
+
+REJECTED:
+[A] 0.567 | A solo founder that never says no is just an underpaid employee. || ai_meta_reference
+[A] 0.419 | You think saying yes to everything makes you scrappy. It makes you cheap labor for other people's priorities. || too_generic_sim<0.50
+[A] 0.447 | If your calendar is full of other people's asks, you're not running a company. You're working for free. || too_generic_sim<0.50
+[B] 0.499 | A solo founder that never says no is just an underpaid employee. You're trading your freedom for a false sense of control. || too_generic_sim<0.50
+[B] 0.463 | Saying yes to everything as a solo founder? You're just an underpaid employee with delusions of grandeur. || too_generic_sim<0.50
+
+=== IDEA ===
+Kill one channel, one offer, one ICP for 90 days and see what happens.
+
+ACCEPTED:
+- None
+
+REJECTED:
+[A] 0.367 | Pick one channel. Kill the rest for 90 days. You'll either prove it works or stop lying to yourself about diversification. || too_generic_sim<0.50
+[A] 0.426 | Most growth problems aren't resource problems. They're focus problems. One offer, one audience, 90 days. Watch what clarity does. || too_generic_sim<0.50
+[A] 0.419 | You're not testing channels. You're testing whether you can commit to a decision long enough to see if it actually works. || too_generic_sim<0.50
+[B] 0.385 | Cut one channel, one offer, one ICP for 90 days. The clarity you gain will shock you. || too_generic_sim<0.50
+[B] 0.398 | Try this: kill one channel, one offer, one ICP for 90 days. Watch what emerges from the silence. || too_generic_sim<0.50
+[B] 0.335 | For 90 days, axe one channel, one offer, one ICP. See what your business really needs to survive. || too_generic_sim<0.50
+[A_retry] 0.460 | Pick one channel. One offer. One customer type. Run it for 90 days without changing anything. Most founders fail because they pivot every two weeks, not because their idea sucked. || ai_meta_reference,too_generic_sim<0.50
+[A_retry] 0.453 | You don't have a strategy problem. You have a commitment problem. Lock into one play for a full quarter and watch what actually breaks versus what you just got bored of. || too_generic_sim<0.50
+[A_retry] 0.376 | Stop testing five things at once. You're not gathering data, you're avoiding the pain of watching one thing either work or die. Choose something and let it run until you have an actual answer. || too_generic_sim<0.50
+[B_retry] 0.434 | Kill one channel, one offer, one ICP for 90 days. The clarity you gain from the silence will surprise you. || too_generic_sim<0.50
+[B_retry] 0.342 | Experiment: cut one channel, one offer, one ICP for 90 days. See what thrives when you prune the dead weight. || too_generic_sim<0.50
+[B_retry] 0.336 | For 90 days, eliminate one channel, one offer, one ICP. The survivors will show you what really matters. || too_generic_sim<0.50
+
+=== IDEA ===
+Your team is not slow, your briefs are.
+
+ACCEPTED:
+[A] 0.515 | You're not managing a slow team. You're managing ambiguity. Tight briefs create fast execution.
+
+REJECTED:
+[A] 0.421 | Your team ships fast when they know exactly what to build. Vague briefs create slow teams. || too_generic_sim<0.50
+[A] 0.417 | Most velocity problems aren't people problems. They're clarity problems. Write better briefs. || too_generic_sim<0.50
+[B] 0.406 | Your team isn't slow, your briefs are. Clear, concise instructions make all the difference. || too_generic_sim<0.50
+[B] 0.407 | If your team is lagging, it's not them. It's your vague, rambling briefs that need the fix. || too_generic_sim<0.50
+[B] 0.377 | Before you blame your team for delays, check your briefs. Clarity is your responsibility. || too_generic_sim<0.50
+
+=== IDEA ===
+If you can't explain how cash moves in 5 lines, you don't run a business.
+
+ACCEPTED:
+[A] 0.521 | Most founders can pitch their vision for an hour but can't tell you where money actually comes from and goes. That's not a business, that's a hobby with a deck.
+
+REJECTED:
+[A] 0.334 | If you can't explain how cash moves in 5 lines, you don't run a business. || too_generic_sim<0.50
+[A] 0.363 | You should be able to draw your cash flow on a napkin in under a minute. If you need a consultant to explain it, you're already losing. || too_generic_sim<0.50
+[B] 0.367 | If you can't explain your cash flow in 5 lines, you're not running a business. You're just playing with numbers. || too_generic_sim<0.50
+[B] 0.366 | Running a business means knowing exactly how cash moves. If you can't break it down in 5 lines, you're lost. || too_generic_sim<0.50
+[B] 0.399 | Can't explain your cash flow in 5 lines? You're not a CEO, you're a hobbyist. Business is about precision, not guesswork. || too_generic_sim<0.50
+
+=== IDEA ===
+Every new tool you add without deleting one roba foco.
+
+ACCEPTED:
+- None
+
+REJECTED:
+[A] 0.388 | Your tool stack should be a closed system. One in, one out. Otherwise you're not optimizing, you're hoarding. || too_generic_sim<0.50
+[A] 0.419 | Adding tools without subtracting them isn't productivity. It's collecting complexity you'll pay for later. || too_generic_sim<0.50
+[A] 0.434 | Every app you keep "just in case" is a tax on your attention. Delete faster than you adopt. || too_generic_sim<0.50
+[B] 0.396 | Every new tool you add without deleting one robs your focus. Clutter kills clarity. || too_generic_sim<0.50
+[B] 0.424 | Tools are like code: adding without removing leads to bloat. Focus suffers. || too_generic_sim<0.50
+[B] 0.395 | Each new tool you add without cutting an old one steals your focus. Less is more. || too_generic_sim<0.50
+[A_retry] 0.342 | Your stack should shrink as you get better. Every tool you keep is overhead you're choosing to carry. || too_generic_sim<0.50
+[A_retry] 0.462 | Adding tools without subtracting them is how you end up with 47 browser tabs and zero momentum. || too_generic_sim<0.50
+[A_retry] 0.330 | New tool in, old tool out. If you can't name what you're replacing, you don't need it. || too_generic_sim<0.50
+[B_retry] 0.427 | Every new tool you add without deleting one robs your focus. Streamline or drown. || too_generic_sim<0.50
+[B_retry] 0.355 | Adding tools without removing old ones is like piling weights on a sprinter. Focus suffers. || too_generic_sim<0.50
+[B_retry] 0.377 | Each new tool without a cut is a focus leak. Less is more, always. || too_generic_sim<0.50
+
+=== IDEA ===
+If you need a crisis to move, you'll manufacture drama without noticing.
+
+ACCEPTED:
+[A] 0.525 | Watch the founders who need chaos to function. They'll always find a reason why this week is different, why everything's urgent, why they had no choice.
+
+REJECTED:
+[A] 0.458 | Some people only ship when everything's on fire. The problem: they'll light the match themselves without realizing it. || too_generic_sim<0.50
+[A] 0.428 | If you can't move without urgency, you'll start creating emergencies. Your brain doesn't care if the crisis is real. || too_generic_sim<0.50
+[B] 0.350 | If you need a crisis to move, you'll manufacture drama without noticing. Realize this and break the cycle. || too_generic_sim<0.50
+[B] 0.361 | Crisis-driven? You'll subconsciously create drama to keep the adrenaline flowing. Recognize it, and find a healthier way to stay motivated. || too_generic_sim<0.50
+[B] 0.409 | If you rely on crises to get things done, you'll unconsciously stir up drama. Identify this pattern and shift to a more sustainable rhythm. || too_generic_sim<0.50
+
+=== IDEA ===
+Hablas de libertad pero vives esclavo de Slack.
+
+ACCEPTED:
+- None
+
+REJECTED:
+[A] 0.360 | You say you want freedom but you check Slack every 8 minutes. || too_generic_sim<0.50
+[A] 0.319 | The irony is you left your job for independence and now three different group chats own your attention span. || too_generic_sim<0.50
+[A] 0.374 | Everyone optimizing for autonomy while letting a green dot dictate when they can think. || too_generic_sim<0.50
+[B] 0.411 | You talk about freedom, but you're chained to Slack. Realize that true liberation starts with breaking digital shackles. || too_generic_sim<0.50
+[B] 0.486 | Liberty is a state of mind, not a chat status. If you're glued to Slack, you're not as free as you think. || too_generic_sim<0.50
+[B] 0.491 | You can't claim to be free when you're a slave to your notifications. Freedom starts by taking control of your digital life. || too_generic_sim<0.50
+[A_retry] 0.387 | You say you want autonomy but you let a chat app dictate when you think. || too_generic_sim<0.50
+[A_retry] 0.375 | Freedom isn't remote work. It's turning off Slack and still shipping. || too_generic_sim<0.50
+[A_retry] 0.315 | The green dot owns you more than any manager ever did. || too_generic_sim<0.50
+[B_retry] 0.399 | You talk about freedom, but you're chained to Slack. Real liberation means cutting the digital leash. || too_generic_sim<0.50
+[B_retry] 0.402 | Claiming freedom while glued to Slack is a joke. True independence starts with owning your time. || too_generic_sim<0.50
+[B_retry] 0.476 | Freedom isn't just a word; it's about how you live. If Slack dictates your day, you're not free. || too_generic_sim<0.50
+
+=== IDEA ===
+Tu agenda llena es tu dopamina, no tu negocio.
+
+ACCEPTED:
+[A_retry] 0.520 | A packed calendar feels productive. It's not. It's just noise you're confusing for progress.
+
+REJECTED:
+[A] 0.476 | A packed calendar feels like progress. It's not. It's avoidance with scheduling software. || too_generic_sim<0.50
+[A] 0.429 | Your calendar is full because saying yes is easier than deciding what actually matters. || too_generic_sim<0.50
+[A] 0.452 | Busy schedules are dopamine hits disguised as work. Your business grows in the gaps you refuse to fill. || too_generic_sim<0.50
+[B] 0.470 | Your packed schedule is your dopamine fix, not your business. Real growth comes from focused, strategic action, not busywork. || too_generic_sim<0.50
+[B] 0.448 | A full agenda might feel good, but it’s a distraction. Your business needs clear, intentional moves, not just activity. || too_generic_sim<0.50
+[B] 0.456 | Don’t confuse a busy calendar with progress. Your business thrives on strategic focus, not a dopamine-fueled to-do list. || too_generic_sim<0.50
+[A_retry] 0.426 | Your calendar is full because saying yes feels like momentum. It isn't. You're just avoiding the harder work that has no meeting invite. || too_generic_sim<0.50
+[A_retry] 0.414 | Busy schedules are a drug. They let you feel important while your actual business starves for attention. || too_generic_sim<0.50
+[B_retry] 0.440 | Your packed schedule is your dopamine hit, not your business. Make sure your to-do list serves your goals, not just your addiction to busy. || too_generic_sim<0.50
+[B_retry] 0.444 | A full agenda is a drug. It feels good, but it’s not the same as building a real business. Focus on what moves the needle, not what fills your day. || too_generic_sim<0.50
+[B_retry] 0.410 | Your jam-packed calendar is your dopamine, not your growth. Prioritize what actually scales your business, not just what keeps you busy. || too_generic_sim<0.50
+
+=== IDEA ===
+Si todo es urgente, nadie sabe qué es importante.
+
+ACCEPTED:
+[A] 0.505 | When everything screams for attention, nothing actually matters. Priority is the art of saying no to 47 things so one thing can breathe.
+[A] 0.543 | The inbox that marks everything urgent has trained you to treat nothing as important. Delete the noise or drown in it.
+[B] 0.557 | If everything is urgent, no one knows what's actually important. Prioritize or drown in noise.
+[B] 0.566 | If all tasks are urgent, you've failed to set clear priorities. Importance gets lost in the chaos.
+
+REJECTED:
+[A] 0.490 | You don't have an execution problem. You have a clarity problem. Real urgency doesn't need to announce itself. || too_generic_sim<0.50
+[B] 0.467 | When everything is marked as urgent, you lose the ability to distinguish what truly matters. Clarity is key. || too_generic_sim<0.50
+
+=== IDEA ===
+Delega entregables, no responsabilidad.
+
+ACCEPTED:
+- None
+
+REJECTED:
+[A] 0.329 | You can hand off the deck, the code, the campaign. You can't hand off caring when it breaks. || too_generic_sim<0.50
+[A] 0.447 | Delegate the work. Own the outcome. If you try to delegate both, you're just creating expensive blame. || too_generic_sim<0.50
+[A] 0.360 | Someone else can build it. Someone else can ship it. But when it fails at 2am, it's still your problem. || too_generic_sim<0.50
+[B] 0.320 | Delega entregables, no responsabilidad. Clear deliverables keep everyone focused on what matters: results. || too_generic_sim<0.50
+[B] 0.367 | When you delegate, make it about the deliverables, not the responsibility. It's about outputs, not ownership. || too_generic_sim<0.50
+[B] 0.399 | Delegation is an art. Focus on the deliverables, not the responsibility. Results over roles. || too_generic_sim<0.50
+[A_retry] 0.371 | You can delegate the deck, the demo, the deployment. You can't delegate caring when it breaks at 2am. || too_generic_sim<0.50
+[A_retry] 0.416 | Hand off the task. Keep the outcome. If you give away both, you're not delegating—you're abdicating. || too_generic_sim<0.50
+[A_retry] 0.394 | Delegation means someone else does the work. The failure is still yours. || too_generic_sim<0.50
+[B_retry] 0.400 | Delegating tasks is easy. Delegating responsibility is the real challenge. Make sure your team owns the outcome, not just the to-do list. || too_generic_sim<0.50
+[B_retry] 0.362 | Hand over the deliverables, but keep the accountability. Your team needs to feel the weight of ownership to truly excel. || too_generic_sim<0.50
+[B_retry] 0.373 | When you delegate, don't just pass the workload—pass the responsibility. Ownership drives results, not just completion. || too_generic_sim<0.50
+
+=== IDEA ===
+El funnel roto casi nunca es tráfico, es onboarding.
+
+ACCEPTED:
+- None
+
+REJECTED:
+[A] 0.405 | You don't have a traffic problem. You have an onboarding problem. Fix the leak before you turn up the faucet. || too_generic_sim<0.50
+[A] 0.373 | Most broken funnels aren't starved for users. They're bleeding them in the first three minutes. || too_generic_sim<0.50
+[A] 0.326 | If half your signups ghost after day one, buying more ads is just paying to watch people leave faster. || too_generic_sim<0.50
+[B] 0.366 | The broken funnel is rarely about traffic. It's almost always the onboarding. Fix the onboarding, and the traffic will convert. || too_generic_sim<0.50
+[B] 0.362 | When your funnel is leaking, don't blame the traffic. The problem is almost always in the onboarding process. || too_generic_sim<0.50
+[B] 0.447 | Most founders focus on traffic when their funnel is broken. But the real issue is usually the onboarding. Nail that, and watch your numbers soar. || too_generic_sim<0.50
+[A_retry] 0.309 | Your funnel isn't broken because nobody's clicking. It's broken because the people who do click have no idea what to do next. || too_generic_sim<0.50
+[A_retry] 0.371 | You're spending thousands on traffic to a product nobody knows how to use. Fix onboarding before you buy another ad. || too_generic_sim<0.50
+[A_retry] 0.423 | Most founders optimize acquisition when the real leak is between signup and understanding what the hell they just signed up for. || too_generic_sim<0.50
+[B_retry] 0.390 | The broken funnel is rarely about traffic. It's almost always the onboarding. Fix the first step, and the rest follows. || too_generic_sim<0.50
+[B_retry] 0.364 | Don't blame your traffic for a broken funnel. The real culprit is usually a flawed onboarding process. Nail that, and watch conversions soar. || too_generic_sim<0.50
+[B_retry] 0.379 | When your funnel is leaking, it's not the traffic that's the problem. It's the onboarding. Make the first steps smooth, and you'll retain more users. || too_generic_sim<0.50
+
+=== SUMMARY ===
+A: 7 / 60 accepted (11.67%)
+B: 7 / 60 accepted (11.67%)
+A_retry: 1 / 39 accepted (2.56%)
+B_retry: 3 / 39 accepted (7.69%)

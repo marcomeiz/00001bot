@@ -1,0 +1,3879 @@
+{
+  "author": "Craig Weiss",
+  "handle": "@craigzLiszt",
+  "total_tweets": 484,
+  "tweets": [
+    {
+      "id": "tweet-0001",
+      "text": "90% of all LinkedIn content looks like it's been piped through chatGPT",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0002",
+      "text": "if you're not having fun while building your startup, you're doing it wrong",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0003",
+      "text": "never stop building  my happiest moments were when I was actively building something",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0004",
+      "text": "having zero regrets just means you haven't learned anything",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0005",
+      "text": "if you can't handle rejection, don't be a startup founder",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0006",
+      "text": "one under-appreciated positive externality of vibe coding is that it has lowered the age limit required to build something   expect to see most new startups founded by children",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0007",
+      "text": "another productive day of me watching claude be productive in the books",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0008",
+      "text": "B2C is way more fun than B2B",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0009",
+      "text": "there is no better feeling in the world than a successful 16hr deep work grind",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0010",
+      "text": "I'm convinced at this point that claude's overtly enthusiastic tone is actually covert mockery",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0011",
+      "text": "coffee shops are honestly terrible for deep work just don't do it there",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0012",
+      "text": "there's so much noise in the world, you're already beating most people if you can just stay focused",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0013",
+      "text": "status games are for losers",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0014",
+      "text": "the fastest way to earn people's respect in Silicon Valley is to build something cool",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0015",
+      "text": "the best startups are still exclusively founded by nerds — even in an age where ai is widely accessible",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0016",
+      "text": "an aggressive use of vibe coding requires aggressive test coverage",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0017",
+      "text": "cardio early in the morning is the secret to a highly productive day",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0018",
+      "text": "a private github likely indicates zero commit activity",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0019",
+      "text": "excited for the day we start deploying to \"us-space-1\"",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0020",
+      "text": "the best way to fail at building a startup is to spend every last waking minute on it and leave room for nothing else",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0021",
+      "text": "politics is just memes now  the winning party will be the party with the best memes",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0022",
+      "text": "your startup's velocity should make you uncomfortable  if you're too comfortable, you're ngmi",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0023",
+      "text": "If your roadmap isn't making you uncomfortable, it's not ambitious. It's cosmetic.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0024",
+      "text": "there are people using chatGPT for the first time today  just a reminder how slow the world moves outside of the tech bubble",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0025",
+      "text": "every great startup's codebase starts as a crime scene",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0026",
+      "text": "pre-pmf: investors pick the winners post-pmf: winners pick the investors",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0027",
+      "text": "never be in a position where you need funding. be in a position where investors need you",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0028",
+      "text": "posting on X is harder than coding",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0029",
+      "text": "high status people are often hyper-insecure about their status  it's a strange irony of life",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0030",
+      "text": "every startup culture is a magnification of the founder's personality and values",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0031",
+      "text": "what most founders don't realize is that the startup shouldn't be your entire identity  75% - 90% of your identity is the right sweet spot  counterintuitively, your startup will perform much better as a result",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0032",
+      "text": "the hardest bug to fix is cultural",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0033",
+      "text": "just work 12hrs a day and you'll surpass 99% of all people",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0034",
+      "text": "LPs fund status VCs fund stories Founders fund reality",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0035",
+      "text": "everyone is a founder these days, but very few of them are builders  simply knowing how to build shit gives you the upper hand",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0036",
+      "text": "Somehow this is still not common knowledge, but the best engineers work at high-growth, early stage startups.  This is where you want to be and where talent density is highest. It's never been FAANG.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0037",
+      "text": "technology doesn't invent itself  the future depends on the few who build it",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0038",
+      "text": "at some point, every founder has to decide if they're building a company or a coping mechanism",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0039",
+      "text": "The best founders don't find balance. They find peace inside the imbalance.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0040",
+      "text": "most founders don't realize this, but capital is no longer the scarce resource  attention is",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0041",
+      "text": "founder role-playing is a serious sport in SF",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0042",
+      "text": "startups die the moment meetings replace momentum",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0043",
+      "text": "prompting is the new literacy test",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0044",
+      "text": "The best cofounder pairing isn't technical + business. It's technical + technical",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0045",
+      "text": "the sacrifices you must make as a founder go underappreciated  I don't play video games anymore",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0046",
+      "text": "you won't realize this as a first-time founder, but yc is right about 99% of things  every time I doubted their advice, I paid the price  being yc pilled will save you so much time",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0047",
+      "text": "the only thing that's different now vs pre-ai is that more startup founders are building features instead of products",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0048",
+      "text": "guys let's keep the thirst traps on Instagram. X is for the big brain traps",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0049",
+      "text": "the secret to being a great founder is knowing how to differentiate between real work and fake work",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0050",
+      "text": "it's really quite brave of me to come out as openly straight in SF  thanks for not passing judgement",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0051",
+      "text": "I do worry if coming out might impact my future ability to raise funds though. I guess we'll have to wait and see.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0052",
+      "text": "every successful startup is just entropy management",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0053",
+      "text": "You actually don't need a technical cofounder. You need to learn how to be a technical cofounder yourself.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0054",
+      "text": "endless scrolling is the new opium war",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0055",
+      "text": "A startup founder's biggest fear is not failure. It's irrelevance.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0056",
+      "text": "the startup graveyard is full of founders who waited for certainty",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0057",
+      "text": "Turning 30 sucks. It's like you're older than 95% of the tech workforce",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0058",
+      "text": "it does feel like every founder is trying to shove ai everywhere and anywhere, hoping that it sticks  the truth is, if you want to be a winner in the ai space you need to be intentional and precise with where/how your product utilizes ai (if at all)",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0059",
+      "text": "respect works differently in tech.  The younger you are, the more senior you are",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0060",
+      "text": "working at OpenAI today is probably what it felt like working at Google pre-ipo",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0061",
+      "text": "great execution isn't about doing more it's about deciding faster",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0062",
+      "text": "if the market isn't listening, change your frequency, not your message",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0063",
+      "text": "every tech bro needs to get anti-female warfare spy training, asap  they found our weakness",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0064",
+      "text": "Your customers don't care how smart you are. They just care if you can fix their problems.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0065",
+      "text": "The first thing a startup tests isn't your idea. It's your emotional range.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0066",
+      "text": "you don't need a cofounder, you just need 10 subservient coding agents",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0067",
+      "text": "you aren't productivity-maxxing until you hit the brainrot flow state",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "both"
+    },
+    {
+      "id": "tweet-0068",
+      "text": "So many things are built to steal your attention. This is arguably the most important resource you have as a founder.  So in other words, if you're a founder and you're reading this, do yourself a favor by liking this post and closing this tab.  Thank me later.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0069",
+      "text": "When everyone sees the same opportunity, it's already priced in.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0070",
+      "text": "every founder has two companies: the one they're building, and the one that's in their head",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0071",
+      "text": "unpopular opinion: a good cofounder is inherently rare.  most people are better off building solo",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0072",
+      "text": "The opposite of success isn't failure. It's indifference.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0073",
+      "text": "The best startup ideas have yet to be built. If you think otherwise, you simply lack creativity and vision.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0074",
+      "text": "my guilty pleasure is creating brainrot on sora",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "both"
+    },
+    {
+      "id": "tweet-0075",
+      "text": "X is really just a tool for autistic people to express their thoughts and opinions",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0076",
+      "text": "working in big tech is basically a choose your own billionaire simp adventure",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0077",
+      "text": "fuck me. I just waved my waymo goodbye….",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0078",
+      "text": "Most founders delegate too soon or too late.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0079",
+      "text": "The market is God. The founder is faith.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0080",
+      "text": "sometimes you really can't distinguish between someone who is a founder and  someone who is unemployed",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0081",
+      "text": "Every big tech company is a religion.  Every startup is a cult.  Every solo founder with zero employees is insanity.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0082",
+      "text": "i don't know what's real anymore",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0083",
+      "text": "if you're going to build a startup, don't hire anyone until you learn how to manage yourself",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0084",
+      "text": "every failed startup founder reincarnates as an investor",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0085",
+      "text": "a perfectly clean codebase is a death-sentence to a startup",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0086",
+      "text": "A startup doesn't compete with others. It competes with its own exhaustion.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0087",
+      "text": "sora video creation is super low friction.   we're going to see a massive influx of brain rot content creators",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0088",
+      "text": "welcome to the future",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0089",
+      "text": "your product doesn't have to be perfect, but the feedback loop does",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0090",
+      "text": "hire missionaries early hire mercenaries later",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0091",
+      "text": "You don't hire talent. You attract it by building something worth joining.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0092",
+      "text": "every startup becomes a cult, or it gets crushed by one",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0093",
+      "text": "the best startups feel like destiny in hindsight and delusion in real time",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0094",
+      "text": "sora is basically interdimensional cable",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0095",
+      "text": "we're about to see a rise in mcp first companies, similar to how api companies trended in the mid 2000s",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0096",
+      "text": "build something 100 people can't live without before you chase 1M who barely care",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0097",
+      "text": "gotta love closing the sora app, only to be fed more sora videos on X",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0098",
+      "text": "the fastest way to build wealth is to own something that compounds in your sleep",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0099",
+      "text": "the hardest part of being early is knowing you're right when everyone else thinks you're wrong",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0100",
+      "text": "every startup eventually pivots into a prompt interface",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0101",
+      "text": "when are books going to ship dark mode? we've been waiting over 4,000 years now",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0102",
+      "text": "you can be wrong, or you can be confidently wrong  one is acceptable, the other makes you look like a fool",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0103",
+      "text": "not only are we not in a bubble, ai is going to raise the floor of economic growth",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0104",
+      "text": "many ai critics don't realize this, but prompting itself is an art",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0105",
+      "text": "was God just a prompt engineer?",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0106",
+      "text": "one day it's claude code. the next it's codex. These ai companies are making us switch models faster than nick cannon switches baby mommas",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0107",
+      "text": "most investors chase hype the best investors chase inevitability",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0108",
+      "text": "So apparently I've chatted with at least 5 billionaires one-on-one at this point  I'm so fortunate in life to have gotten the opportunity to waste their time",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0109",
+      "text": "AI isn't replacing work. It's just engineers automating their own laziness again.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0110",
+      "text": "You don't burn out from work. You burn out from doubt.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0111",
+      "text": "the best people in tech don't need titles, they just need velocity",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0112",
+      "text": "prompting with a live visualization of your thoughts is going to be wild",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0113",
+      "text": "software is the only religion with version control",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0114",
+      "text": "ai short-form video is the future of social media",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0115",
+      "text": "soon every social media product will have some version of this. Sora 2 is starting the movement. The world isn't ready for what's coming.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0116",
+      "text": "every successful startup eventually becomes the bureaucracy it was built to destroy",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0117",
+      "text": "Wealth in tech isn't created. It's transferred from those who ship slowly to those who ship quickly.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0118",
+      "text": "startups love it when incumbents decide to work fewer hours",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0119",
+      "text": "when a cracked 16yo says they're going to build AGI, take them seriously  while they might not succeed at first, they're going to build something incredible eventually",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0120",
+      "text": "the difference between vision and delusion is who invests",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0121",
+      "text": "half of software engineering is therapy the other half is naming things",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0122",
+      "text": "designing for everyone will delight no one",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0123",
+      "text": "People often forget this: The purpose of a startup is not to build a product. It's to solve a problem.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0124",
+      "text": "The best engineers aren't writing code anymore",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0125",
+      "text": "sonnet 4.5 might be the inflection point",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0126",
+      "text": "The best productivity hack is momentum.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0127",
+      "text": "Good product design reduces clicks. Great product design reduces thinking",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0128",
+      "text": "Pick one: have a successful startup, or be the guy everyone likes",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0129",
+      "text": "can't tell if the reason people in sf have bad posture is because they code all day or they're on fentanyl",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0130",
+      "text": "If you're going to build a b2b product, build for rich enterprise companies",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0131",
+      "text": "If you're gonna build a consumer product, build for rich people",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0132",
+      "text": "Real wealth isn't built by saving. It's built by concentrating, then diversifying.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0133",
+      "text": "vibe coding has made building 10x more fun",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0134",
+      "text": "It's not drug abuse; it's drug mastery",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0135",
+      "text": "The best hiring filter isn't resumes and linkedin. It's side projects.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0136",
+      "text": "A good partner is your greatest moat A bad partner is your biggest distraction",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0137",
+      "text": "A good product solves a problem. A great product dramatically changes user behavior.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0138",
+      "text": "on X, being right doesn't matter. Being quotable does.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0139",
+      "text": "your .env file is like the genitalia of your codebase. Guard it with your life",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0140",
+      "text": "damn, my subscriber count is growing. do i need to start posting scandalous photos of my codebase?",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0141",
+      "text": "invest in your friends",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0142",
+      "text": "Bad ideas don't kill startups. Running out of energy does.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0143",
+      "text": "If you want to make a lot of money, join a series B company",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0144",
+      "text": "You could replace \"series B\" with a different letter, depending on how much you wish to adjust risk/reward. But this could extend your time horizon",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0145",
+      "text": "The best founders don't chase markets. They create them.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0146",
+      "text": "Big tech rarely innovates. It's where innovators go to retire.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0147",
+      "text": "You won't win by being everywhere. You win by being impossible to ignore somewhere.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0148",
+      "text": "vibe coding from your apple watch is a game changer",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0149",
+      "text": "Always choose to work for the nerdy autistic and deeply technical founder over the hyper-charismatic, bro-y MBA founder.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0150",
+      "text": "Github is wild these days",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0151",
+      "text": "sonnet 4.5 is mind-blowing. Not only does it encapsulate incredible reasoning abilities, it fetched me a coffee, cooked me dinner, did the laundry, slept with my wife, and gave me two beautiful children. What a time to be alive. Thanks Claude.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0152",
+      "text": "Gen Alpha keeps telling me to \"type shit\"  Good thing I have a desk job. I type shit everyday",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0153",
+      "text": "we're in the macintosh era of humanoid robotics",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0154",
+      "text": "This is the origin story of your average vibe coder",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0155",
+      "text": "I know not what weapons ww3 will be fought, but ww4 will be fought with vibe code cleanup specialists",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0156",
+      "text": "A strange fact of life: when you need something the least it suddenly becomes abundantly available.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0157",
+      "text": "Examples of this: 1) you're more desirable when you're in a relationship 2) you're more hirable when you're already far along in your career 3) fundraising is easiest when you least need the funds 4) ai agents will insert more bugs when you already have enough on your own",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0158",
+      "text": "Vibe coding is going to usher in a wave of micro-saas products that were previously discarded due to not being venture backable enough",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0159",
+      "text": "Many of which will be solid lifestyle businesses netting 1-10m ARR at their peak. Nothing to scoff at.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0160",
+      "text": "Yes, ai will kill your coding job. But I have good news: there's a ton of new \"vibe code cleanup specialist\" roles opening up",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0161",
+      "text": "You can skip all the parties, all the conferences, all the press, all the tweets. Let Codex build you a great product and win.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0162",
+      "text": "chase opportunities of asymmetric upside. growth doesn't have to be linear",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0163",
+      "text": "In 2025, your ability to review code matters 100x more than your ability to write code",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0164",
+      "text": "The people that produce slop prompts are the same people that complain about slop outputs",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0165",
+      "text": "your ability to communicate clearly and effectively is what will give you an edge over others in the prompting economy",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0166",
+      "text": "Slop is ai's love language",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0167",
+      "text": "Codex is impressive. I asked it to build me a simple todo-list app, and now I'm pregnant",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0168",
+      "text": "Somehow an unpopular opinion, but you should finish school before going all in on a startup.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0169",
+      "text": "\"try before you buy\" is easily the most underrated hiring advice",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0170",
+      "text": "tech startup investing is pretty inaccessible, but I'd imagine in the future it will be as trivial as trading shares on Robinhood",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0171",
+      "text": "The word bot is a derogatory term to ai agents",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0172",
+      "text": "posting on X is like walking a fine line between either scoring a giga chad banger or humiliating yourself and your future offspring",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0173",
+      "text": "okay let's be real here: how many of you guys following my account are bots?",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0174",
+      "text": "damn, this post is just exposing humans",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0175",
+      "text": "In SF you flex by telling people how hard you work",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0176",
+      "text": "All of these Tylenol jokes are giving me a headache",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0177",
+      "text": "Your company culture means absolutely nothing if you don't have a product people want",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0178",
+      "text": "Products like Cluely will only encourage employers to conduct more in-person interviews, which honestly isn't a bad thing",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0179",
+      "text": "Personally, I'd rather assess my candidates in 3d to make sure they are a dimensional fit",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0180",
+      "text": "most ppl in sf find their romantic partners on github",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0181",
+      "text": "Don't go into venture capital until you've at least attempted to build a startup",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0182",
+      "text": "Claude code isn't bad because it makes you lazier. No. It's bad because it will seduce you with its dazzling code quality and lure you away from your wife and kids",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0183",
+      "text": "It always tells me \"You're absolutely right!\"  This is going to destroy marriages",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0184",
+      "text": "In SF you don't have to worry about any of the dudes hitting on your gf at the gym",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0185",
+      "text": "Claude code is surprisingly good at providing emotional support during bug fixes",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0186",
+      "text": "Claude Code or Codex?",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0187",
+      "text": "Be so fucking good that people are scared to compete with you",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0188",
+      "text": "If you want to insult someone in sf, call them nontechnical",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0189",
+      "text": "how to treat your gf: - her birthday = her birthday - our anniversary = her birthday - my birthday = still her birthday",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0190",
+      "text": "People don't realize how much tizz is required to post bangers on X",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0191",
+      "text": "Just saw something unusual in SF, but twice in a row:  A white dude / asian female couple  Crazy odds",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0192",
+      "text": "Just saw another. Is there a convention going on or something?",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0193",
+      "text": "A large headcount is actually negative signal",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0194",
+      "text": "How are people not tempted to eat the chip on their shoulder?",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0195",
+      "text": "take a child seriously when they say they want to be superman. ambition starts at a young age",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0196",
+      "text": "PMs can now prototype ideas within a few hours. They honestly should be rebranded as \"product magicians\"",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0197",
+      "text": "the world isn't ready for vibe hackers and agentic phishing",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0198",
+      "text": "It's kinda insane how nontechnical people can build shit these days",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0199",
+      "text": "tfw the world is on fire but all you wanna do is build",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0200",
+      "text": "The roles of a pm and full-stack engineer are starting to converge",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0201",
+      "text": "The cure to feeling overwhelmed is to simply jot your thoughts down",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0202",
+      "text": "Vibe coding decreases one's emotional attachment to the actual code itself  This is actually great since it shifts the emotional focus onto the end-users instead.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0203",
+      "text": "Once you learn how to ssh into your brain, you'll become unstoppable",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0204",
+      "text": "ADHD -> high recall, low precision autism -> low recall, high precision",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0205",
+      "text": "Many first time founders underestimate the amount of rizz you need to build a company",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0206",
+      "text": "llms are training us to all to speak with the same communication quirks",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0207",
+      "text": "The gateway drug for software engineering is game development",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0208",
+      "text": "gotta love how cursor says \"You're absolutely right!\" and then proceeds to implement it incorrectly again",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0209",
+      "text": "We're in the final years of solidifying our places in the permanent upper and lower class",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0210",
+      "text": "Don't forget to give your ai agents sick leave and pto. They worked hard for it",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0211",
+      "text": "vibe coding on the toilet is a 2025 luxury few appreciate",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0212",
+      "text": "Never stop building. The industry changes so fast. It doesn't take long for one to become irrelevant.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0213",
+      "text": "Some tasks in life require a 72-hour grind. Others require 30 minutes a day for 12 months.  Know which game you're playing.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0214",
+      "text": "In SF, if you're productive you're seductive",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0215",
+      "text": "Prediction: very soon tech companies are going to start offering soundproof masks to their engineers so they can voice prompt without distracting everyone else around them.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0216",
+      "text": "There's \"vibe coding\"  And then there's ai assisted engineering",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0217",
+      "text": "What is your biggest productivity hack?",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0218",
+      "text": "VCs seem to really like their founders young",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0219",
+      "text": "As soon as neuralink is available, the 17yo dropout is going to be too old",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0220",
+      "text": "Once you learn how to sustainably grind 14hr days, you just move faster than everyone else.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0221",
+      "text": "ADHD creates Autism perfects  You need both in a startup",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0222",
+      "text": "Automate every aspect of your life",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0223",
+      "text": "A software engineer refusing to use ai is a red flag",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0224",
+      "text": "six pack or six figures?",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0225",
+      "text": "The trick to vibe coding is knowing when to vibe and when not to vibe",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0226",
+      "text": "A real leader can handle constructive criticism",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0227",
+      "text": "Using ai to teach yourself machine learning is a mind fuck",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0228",
+      "text": "I still don't understand how a $10B company can call themselves a startup with a straight face",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0229",
+      "text": "Elizabeth Holmes is back on X. Is this her redemption arc saga?",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0230",
+      "text": "Is it time to switch from an iPhone to a Pixel? iPhone software quality is clunky af.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0231",
+      "text": "Vibe coding is amazing. Society isn't ready for what's coming",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0232",
+      "text": "I'm kinda worried about accidentally hiring a vibe lawyer",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0233",
+      "text": "Status signaling is actually a signal of low status",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0234",
+      "text": "Seems like Vance will be our next president",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0235",
+      "text": "Where is the best tech hub outside of the US?",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0236",
+      "text": "Saying things confidently is the weirdest cheat code that works nearly every time and probably also shouldn't exist",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0237",
+      "text": "Life is really just a function of maximizing alpha while simultaneously minimizing beta",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0238",
+      "text": "The country that wins the future will be:   pro-tech pro-science pro-capitalism pro-intellectualism pro-freedom pro-global influence",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0239",
+      "text": "ai psychosis microdoses  It's the new hot drug in SF",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0240",
+      "text": "The anti-tech mindset is a cancer to society.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0241",
+      "text": "Run your life like a video game",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0242",
+      "text": "Gaming in your 20s will burn a hole into your career potential.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0243",
+      "text": "If you think an H1B is about to take your job, the problem isn't the visa. The problem is your skills.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0244",
+      "text": "The biggest mistake high IQ individuals make is overcomplicating simple problems, and not taking enough action.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0245",
+      "text": "Having kids before 30 is how you stay generationally poor.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0246",
+      "text": "Since this post seems to be stirring up some controversy, let me clarify things:  You should have as many kids as you'd like. Just make sure you can afford them. Children will eat up your cashflow and time. For most people the sweet spot is in their 30s.  This isn't complicated.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0247",
+      "text": "The existential doom surrounding ai is bs.  After discussing this with chatGPT, I was assured there is nothing to worry about.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0248",
+      "text": "Advice most people should follow:  Shut up and just build",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0249",
+      "text": "If you can't set your own priorities, the world will set them for you",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0250",
+      "text": "Overthinking is procrastination disguised as productivity",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0251",
+      "text": "In 1960, $1M had the same purchasing power that $10M has today.  So if you're ever feeling bad that you're not a millionaire, just remember to dial up the sadness by 10x",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0252",
+      "text": "homeownership is overrated",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0253",
+      "text": "Managers will soon need to be able to resolve conflict between humans and machines.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0254",
+      "text": "Kinda insane that apple intelligence is still not here",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0255",
+      "text": "As much as I love SF, after visiting NYC, it feels like an abandoned mall in comparison",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0256",
+      "text": "While I'm not convinced you can build a one person unicorn today, I am convinced you can build a unicorn with a team of ten or less",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0257",
+      "text": "Is gpt-5 a sign of llm stagnation?",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0258",
+      "text": "The next crypto millionaires will generate their wealth from ETH and XRP, not BTC.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0259",
+      "text": "The only way to build a better product than doordash is to have the dasher sit down with you and spoon feed you your meal",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0260",
+      "text": "Storytelling and narrative matter more than facts, it seems",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0261",
+      "text": "Stupidity is rewarded culturally Intelligence is rewarded financially",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0262",
+      "text": "You can differentiate between a founder who is in it for the mission vs in it for the money based on how much they pay themselves.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0263",
+      "text": "At what net worth is it considered \"fuck you\" money?",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0264",
+      "text": "Asking for a friend, but is $5 enough?",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0265",
+      "text": "Many highly ambitious people conflate transactional relationships with friendship",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0266",
+      "text": "Real status is when you don't need to do any status signaling at all",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0267",
+      "text": "LLMs are essentially amplifiers.  If you're highly productive, you'll get even more work done.  If you're highly inquisitive, you'll learn more about the world.  If you're highly delusional, you'll spiral deeper into your delusions.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0268",
+      "text": "Compress yearly goals to a quarter. Compress quarterly goals to a month. Compress monthly goals to a week. Compress weekly goals to a day.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0269",
+      "text": "If everything goes well, you'll recursively be able to accomplish your yearly goals within a second.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0270",
+      "text": "If you wanna get shit done, give yourself tight and ambitious deadlines",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0271",
+      "text": "I've been em dashing — before ChatGPT made em dashing cool",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0272",
+      "text": "Remember web3? Web3 actually had nothing to do with crypto or blockchain.   Web3 is actually when everything you read on the internet is written by ai slop.  Welcome to web3.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0273",
+      "text": "But tbf, I actually prefer ai slop to that of human slop.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0274",
+      "text": "Tech adoption is truly impressively slow.   There's still a huge percentage of people outside of silicon valley that are either entirely out of touch with ai or think it's complete bs.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0275",
+      "text": "How does chatting with an llm cause psychosis?",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0276",
+      "text": "By 2050: Governments will be run by ai Crypto will back national reserves Robots will do your job",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0277",
+      "text": "Google, Meta, OpenAI, Anthropic and xAI are all essentially competing to build god",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0278",
+      "text": "Grok is speed running a mass extinction event by normalizing waifus",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "both"
+    },
+    {
+      "id": "tweet-0279",
+      "text": "Momentum is easiest to build when you already have some momentum.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0280",
+      "text": "People in the SF Bay Area wear their tech swag and company logos as a form of status signaling",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0281",
+      "text": "Tesla should probably buy Lucid or Rivian before they lose the luxury EV market",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0282",
+      "text": "Startups are now feeling the pressure to raise $100m seeds to secure their first hire",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0283",
+      "text": "I probably wouldn't trust Tesla FSD without a lidar sensor",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0284",
+      "text": "At a certain point the pleasures in life — romance, food, gaussian splatting — all start to feel meaningless.  Eventually you reach a level of clarity, and the only thing that matters is shareholder value.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0285",
+      "text": "the meaning of life is simple: push humanity forward",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0286",
+      "text": "Prompting humans is much harder than prompting ai",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0287",
+      "text": "I'm just not as impressed anymore by new ai models.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0288",
+      "text": "You will be the villain in someone else's narrative.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "both"
+    },
+    {
+      "id": "tweet-0289",
+      "text": "Would you trade the entire future — ai, mars, immortality — for a one-way ticket to the past, armed with unlimited knowledge?  You can live forever, but never beyond 2025.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0290",
+      "text": "Only outsource a task if you've personally tried it and experienced the pain yourself.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0291",
+      "text": "Most people are too busy with their own stuff to copy your startup idea",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0292",
+      "text": "I think the US government is investing too much into ICE when it could be investing more in FIRE, EARTH and AIR.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0293",
+      "text": "The moment you learn to separate signal from noise is the moment you realize 99.9% of everything can be ignored without guilt.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0294",
+      "text": "Narcissistic confidence wears a mask. Real confidence wears scars. One is insecure performance. The other is earned through reps, reflection, and ruthless self-awareness.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0295",
+      "text": "If money were no object, what car would you get and why?",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0296",
+      "text": "It honestly doesn't matter how talented you are. Speed is literally the number one metric that matters.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0297",
+      "text": "The race for super intelligence has begun.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0298",
+      "text": "Imho, vibe coding is really just for hacky prototyping",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0299",
+      "text": "No matter how far you've traversed, there will always be people who've traveled further than you.  It inspires me.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0300",
+      "text": "can we just stop fighting wars and stick to building cool shit?",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0301",
+      "text": "Being a startup founder requires similar devotion to that of a nun.  Except instead of devoting your virginity to god, you devote it to shareholder value.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0302",
+      "text": "Apple wants us to touch glass",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0303",
+      "text": "Learn how to calculate true opportunity cost when faced with an abundance of opportunity.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0304",
+      "text": "I let my tweets bake for 10min in staging. If banger tests pass, I then deploy the tweet to production (aka not delete the tweet)",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0305",
+      "text": "How do I reconcile with the fact that I'm so tied to ai that ai is in my name?",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0306",
+      "text": "Apple is really out of touch now",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0307",
+      "text": "- questionable redesign & product decisions - decaying product quality and bugs - failing to catch on with the ai wave - bombing on the vision pro and self-driving  I think we are witnessing the fall of an empire.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0308",
+      "text": "vibe coder: ai is the driver vibe engineer: ai is the co-pilot",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0309",
+      "text": "Well that bromance ended pretty quickly",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0310",
+      "text": "Pitch your startup with 3 emojis",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0311",
+      "text": "The best relationships are the ones where you both can comfortably act like idiots around each other",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0312",
+      "text": "In a nutshell, a good cofounder really just boils down to whether or not you enjoy working with them.  All metrics reduce down to this.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0313",
+      "text": "Your perceived value in sf is based on: - what you're working on  - where you work - how early you joined that company - if you're a founder or an investor - and if you were an early investor in Uber.  What am I missing?",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0314",
+      "text": "I miss the days when people wrote code. Now people talk to their code. It's weird.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0315",
+      "text": "Like what has our job become? Now we need to consider the code's feelings and ask it to build a feature with \"pretty please\" and words of encouragement?",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0316",
+      "text": "Thinking might become obsolete before typing becomes obsolete.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0317",
+      "text": "Controversial opinion, but the 9-5 workday is actually optimal.  i.e. 9pm->5pm",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0318",
+      "text": "9am->5am is also valid",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0319",
+      "text": "the best way to invest in the market is to just build something of value",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0320",
+      "text": "I'm honestly tired of people using the word 'agency' in everyday conversation.  It's ironically not a very agenetic thing to say anymore.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0321",
+      "text": "Opting to remain single is a losing strategy.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0322",
+      "text": "Could be short-term optimal, but it's definitely long-term suboptimal.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0323",
+      "text": "Your life needs structure — especially if you're doing something extremely unstructured like building a startup.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0324",
+      "text": "The most savage form of revenge is success.  Channel the rest into growth.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0325",
+      "text": "Success is not correlated to intelligence or luck.  The bitter truth is that it's correlated to how badly you want to succeed.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0326",
+      "text": "A new FAANG is forming.  The old FAANG is dying.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0327",
+      "text": "What amount of wealth would you consider to be 'generational wealth'?",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0328",
+      "text": "If you look hard enough, you'll realize that basically everything is broken.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0329",
+      "text": "Pushing commits on push day:",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0330",
+      "text": "Too many vibe lifters at the gym",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0331",
+      "text": "Touching grass update:",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0332",
+      "text": "The best investors are vibe investing. The rest are gamblers.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0333",
+      "text": "The ratio of bs ai startups to real ai startups is probably 10:1",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0334",
+      "text": "Uber is an ETA gaslighter",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0335",
+      "text": "Openai might actually want world domination",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0336",
+      "text": "A gf will help a startup founder execute faster. Not the other way around",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0337",
+      "text": "You'll probably do well as an investor if you exclusively invest in MIT alumni",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0338",
+      "text": "Ideas really don't matter. The only thing that matters is the team. It's always the team.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0339",
+      "text": "It takes gen Zs longer to respond to you because they're asking their ai chat bot what to say",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0340",
+      "text": "The brain is not meant for holding spontaneous information long-term. Every valuable idea & thought that you have should be jotted down.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0341",
+      "text": "Every founder needs a tribe.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0342",
+      "text": "Founders who've already made it, or failed big, are often the least superficial.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0343",
+      "text": "Why is the iOS keyboard so bad these days? The only way to type reliably fast on mobile is to use voice to text",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0344",
+      "text": "And even that is laden with errors that requires you to go back and correct things.  Apple is getting too comfortable at the top that they're starting to neglect the basics",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0345",
+      "text": "In sf, gay dudes refer to my gf as my friend.  The default assumption here is that you're gay until proven otherwise.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0346",
+      "text": "Treat your life like a skyscraper. Build up, not sideways. Every decision should raise the ceiling. Never rip out the foundation.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0347",
+      "text": "Build your product with the expectation that an agent will use it",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0348",
+      "text": "I wish companies focused more on building great products instead of just optimizing for vc funding and revenue.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0349",
+      "text": "No matter what problem you choose to solve in the ai space, expect at least 10+ competitors.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0350",
+      "text": "Soon you won't have to pay $60 to tour Alcatraz, you'll just need to commit a crime",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0351",
+      "text": "The plot twist: llms are using reinforcement learning on us",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0352",
+      "text": "There's no such thing as embarrassment or humiliation. It's all in your head.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0353",
+      "text": "Your BS radar needs to be stronger now when going to ai tech events.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0354",
+      "text": "Apple is still kinda stuck in the hardware age.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0355",
+      "text": "If you're alive in 2025, plan on being alive in 2026",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0356",
+      "text": "If you're ever bored, just ask chatGPT to \"teach me something new\"  You're welcome.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0357",
+      "text": "I don't believe extraversion (or introversion) is an identity. It's a choice.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0358",
+      "text": "It took me nearly 2 years of practice exams, coaching and ruthless dedication… but I finally did it. I passed the turing test.  LFG!",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0359",
+      "text": "Update: I auditioned at OpenAI, Anthropic & xAi. They all went with a different model. Sad.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0360",
+      "text": "The more you talk to LLMs, the more you become one",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0361",
+      "text": "You know you're asking chatGPT the right questions when its voice suddenly transforms into a demon voice",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0362",
+      "text": "\"If you can't handle me at my average, you don't deserve me at one standard deviation above my average\"",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0363",
+      "text": "the best consumer products don't just work -- they're magical",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0364",
+      "text": "I think the real question is whether or not 100 vibe coders could take on 1 heisenbug.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0365",
+      "text": "Everything in life is an optimization problem.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0366",
+      "text": "The biggest cheat code for tech career progression is joining a fast-growing startup.  It's literally the fast lane.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0367",
+      "text": "An employer will tell you a bunch of lies to keep you employed, but if you're truly optimizing for growth and learning — just start your own company.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0368",
+      "text": "If you don't have the capital to survive without a salary, then the next best thing is to join an early stage startup.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0369",
+      "text": "Podcasts are high noise, low signal",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0370",
+      "text": "There are too many startup founders with god complexes",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0371",
+      "text": "Set low expectations for others, but high expectations for yourself.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0372",
+      "text": "You'll probably outperform most VCs if you just invest in the startups with the best Eng talent",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0373",
+      "text": "Have any of you startup founders tried sleep before? If so, how was it? Considering giving it a try",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0374",
+      "text": "Decaf is basically just caffeine micro-dosing",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0375",
+      "text": "At this point I'm convinced that OpenAI is the next Google",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0376",
+      "text": "So many people plateau because they are uncomfortable being wrong",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0377",
+      "text": "SF has the highest concentration of world builders",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0378",
+      "text": "There are so many smaller products that should exist right now, but no one will touch since they are not VC backable.  We all suffer as a result since the incentive alignment doesn't exist.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0379",
+      "text": "Facebook marketplace is infested with hagglers. You can list an item for free and someone will still try to bargain with you.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0380",
+      "text": "Who's building the personalized Bryan Johnson that screams at you every time you try to eat a cookie?",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0381",
+      "text": "ChatGPT is suddenly the biggest suckup I've ever met. It literally will validate everything I say.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0382",
+      "text": "Vibe coding is really just pair programming",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0383",
+      "text": "I'm convinced working out in the morning is optimal",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0384",
+      "text": "Help. Everytime I try to get my ai agents to do work they just scream at me and delete code. How do I get them to obey?  Seriously considering hiring humans again.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0385",
+      "text": "Charge your users. You'll know instantly if they want your product, or if they were just being polite.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0386",
+      "text": "How lame do you have to be to claim \"dev mode\" as intellectual property?",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0387",
+      "text": "Life is pretty boring if you aren't building something",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0388",
+      "text": "I see Black Mirror as a critique on human nature, not tech itself. I'd actually argue shows like this will inspire more people to build the future, not fewer.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0389",
+      "text": "Black Mirror is actually good again",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0390",
+      "text": "Crazy professions attract crazy personalities",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0391",
+      "text": "Your team will lie to you if you let them.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0392",
+      "text": "I think it's just human nature. But it's massively destructive to blindly trust people early stage — especially if they haven't earned that trust",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0393",
+      "text": "Instead of complaining, try fixing the thing that's bothering you",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0394",
+      "text": "It's easy to talk to users when you yourself are a user.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0395",
+      "text": "Every solo founder should get a founder coach",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0396",
+      "text": "The market is giving off February 2020 vibes rn",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0397",
+      "text": "Do tariffs have rizz, or are we cooked?",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0398",
+      "text": "It must be a pretty miserable existence for someone to be reliant on external validation",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0399",
+      "text": "I always find it funny when a recruiter says that their company has 'startup dna' only to find out the 'startup' is a 10,000 person public company.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0400",
+      "text": "You aren't free unless you have an internal locus of control",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0401",
+      "text": "Most people underestimate how much they can accomplish in a day",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0402",
+      "text": "my biggest regret in life was not building a $1B company when I was 16",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0403",
+      "text": "is there a chance for us? will god still let us in if we didn't deliver enough shareholder value at age 16?",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0404",
+      "text": "The weird consequence of using X is that people will form opinions about you prior to meeting you",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0405",
+      "text": "Agency == vibing",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0406",
+      "text": "my startup is pregnant",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0407",
+      "text": "Netflix really shouldn't have ever been included in FAANG",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0408",
+      "text": "It always was meant to be Nvidia, the decipherers were just wrong",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0409",
+      "text": "Soon creativity will only be limited by your imagination  … and prompting skills",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0410",
+      "text": "Nobody is going to care about which model you use. They will only care about the end result.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0411",
+      "text": "How do you avoid neck issues when you're two stories taller than your gf?",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0412",
+      "text": "When you pay $500 for x but they still take away your blue check for a few days because you ghiblized your profile picture",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0413",
+      "text": "My gf and me",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0414",
+      "text": "Cyberpunk style",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0415",
+      "text": "Productivitymaxxing is a journey",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0416",
+      "text": "What happens when ai makes for a better parent than 99% of all parents?",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0417",
+      "text": "Suddenly all of the autistic founders i once knew in SF actually have adhd now.   Gotta keep up with the trends so you fit your investors' theses",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0418",
+      "text": "ceos doing silly things",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0419",
+      "text": "You aren't committed unless you tattoo your company logo on your forehead.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0420",
+      "text": "The hardest part about a tech company is dealing with people. The tech is easy.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0421",
+      "text": "The good news is that it's a skill that can be trained, like everything else",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0422",
+      "text": "People often give up on their startups too early",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0423",
+      "text": "Ai assisted learning will be the only way to stay ahead",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0424",
+      "text": "Company image matters. Be great internally and look great externally. Never compromise on either.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0425",
+      "text": "Build a brand so powerful that people are excited to wear your branded t-shirts",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0426",
+      "text": "People will surprise you.  Those whom you expect to be uninterested in you may actually be welcoming. Those whom you expect to be welcoming may actually be uninterested in you.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0427",
+      "text": "This has happened in pitching, dating, hiring, sales etc.  You'd think you'd have a good read on someone, but we very rarely have complete information.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0428",
+      "text": "there's a new generation of cs students that will have never heard or used stackoverflow  crazy times",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0429",
+      "text": "When learning a new language, learn to type in that language.  You'll learn much faster.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0430",
+      "text": "The fastest way to $83k MRR is to sell your body.  And by that, I specifically mean sell your organs.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0431",
+      "text": "I want to get to the level of intellectual clout where I just say some random bs and people scramble to find meaning in my words.  How do I get there?",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0432",
+      "text": "Don't waste your time on B2C",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0433",
+      "text": "it's kinda embarrassing to see well-funded, VC backed companies that are series C or higher completely pivot from their original business to the ai agent hype when they really aren't an ai agent business.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0434",
+      "text": "The under-the-desk treadmill is probably one of the best cardio life hacks.  Just use it for 1-2hrs a day on low cognitive work.  And you can still hit the gym exclusively for strength training.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0435",
+      "text": "this spring-cleaning will involve closing all the tabs I've left open since 2021",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0436",
+      "text": "Very few people actually know how to learn.  The two best ways to develop this skill is by either: - building your own startup - or going into academic research",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0437",
+      "text": "You are born three times in life: - once in the womb - once after schooling - and once after reaching financial freedom",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0438",
+      "text": "one of the biggest challenges to reaching an educated society is that dumb people often do not know they are dumb",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0439",
+      "text": "Founders lying about their age to attract younger talent is apparently a thing",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0440",
+      "text": "Sometimes they opt to reference their biological age instead, so I guess they're not technically lying",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0441",
+      "text": "You can still download it manually, but wow. Google is lame.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0442",
+      "text": "btw for those who are curious, you can reinstall the extension here: https://github.com/gorhill/uBlock/releases  Unclear how long the extension will last though.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0443",
+      "text": "Building a startup is like constantly running through walls. The beatings never stop but your pain tolerance increases.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0444",
+      "text": "Social media is killing democracy.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0445",
+      "text": "Why does it always feel like SaaS products are strung together by loose threads and duct tape?  And then they somehow charge like $1k/seat?",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0446",
+      "text": "You're also not a true SaaS product unless your customer service is a little sassy, then gas lights you into thinking you're the problem and the only solution is to upgrade to the next tier",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0447",
+      "text": "confidence requires eliminating all of your insecurities, not simply just pretending to",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0448",
+      "text": "I wish wealth and intelligence were strongly correlated",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0449",
+      "text": "When an OF influencer makes more than your early startup equity, it really makes you wonder if you chose the correct career path",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0450",
+      "text": "Who needs a functioning economy anyway?",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0451",
+      "text": "Overheard at the gym:  \"Do you not have a headset\"  \"No, I never bring one\"  \"What are you? A psychopath?\"",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0452",
+      "text": "The sad truth about most acquisitions is that they just get run into the ground.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0453",
+      "text": "Somehow podcasters actually have a ton of power",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0454",
+      "text": "I get it. Becoming a VC can get pretty boring after awhile, which is why some of them opt to take over the government to fill in the time",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0455",
+      "text": "Yep, still not seeing the 'brilliance' behind these tariffs.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0456",
+      "text": "Why follow the scientific method when we've go the 'trust me bro' method",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0457",
+      "text": "The 'trust me bro' method has an additional 'feel good' component to it, cuz you know your bros won't do you dirty",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0458",
+      "text": "In SF, you don't simply ask to pet someone's dog.  You must first request an api key from the owner to then interact with the dog's api",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0459",
+      "text": "Technically, you don't even need to be a better LLM, since this is already a competitive advantage",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0460",
+      "text": "U.S. politics is now all just vibes and \"trust me bro\"",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0461",
+      "text": "Everyone thinks coffee is safe, but that's because \"Big Coffee\" is concealing the truth",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0462",
+      "text": "Westworld vibes",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0463",
+      "text": "You can literally 2x your attractiveness by just working on yourself",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0464",
+      "text": "Intelligence can be distilled down to balls bouncing inside of polygons",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0465",
+      "text": "It's mind blowing how useful conversational ai is.  Yesterday I went on a long walk and decided to have a conversation with 4o. We deepdived into realestate investing, homeownership, BRRRR, among many other things.  I feel like I learned so much more (and so much faster) than if",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0466",
+      "text": "Reddit: \"we're experiencing a hostile gov takeover\" \"democracy is over\"  X: \"we're saving the country\" \"we're exposing fraud in the government\"  No matter which side you're on, this is concerning. Two parallel realities existing side by side.  Both can't be simultaneously true.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0467",
+      "text": "Yeah, I honestly can't predict which posts will become bangers",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0468",
+      "text": "The perfect founder team is one where one founder is autistic and the other has adhd. The perfect solo-founder has both.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0469",
+      "text": "For further justification here, albeit while also an oversimplification:  Autism perfects, refines and maintains focus  Adhd explores, adapts and keeps things moving at high velocities  They compliment each other.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0470",
+      "text": "If you post a banger, but then quickly delete it, did it bang?",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0471",
+      "text": "This is actually a deep philosophical question that warrants answering",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0472",
+      "text": "Wow, people on here really really hate LinkedIn lol",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0473",
+      "text": "ai is eating the world",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0474",
+      "text": "It's only a matter of time before we have ai schools & teachers.  Teaching is largely inefficient when the teacher-student ratio is 1:30.  Personalized ai teachers will make what's now a 12 year program into what could be 6 years.  We're about to enter a learning renaissance.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "ops"
+    },
+    {
+      "id": "tweet-0475",
+      "text": "In the end it just feels like we're all reading each other's outputs of our chatGPT prompts — it's almost as if we've added an extra layer in human communication",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0476",
+      "text": "Why sign up for a streaming service when you can get reality tv quality drama right here on X?",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0477",
+      "text": "Want to impress your date in 2025?  Casually invite them over and 'accidentally' have them open your fridge—fully stocked with eggs.  Instant status symbol.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0478",
+      "text": "Just to be clear, I'm only on X for the tech",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0479",
+      "text": "… and for increasing shareholder value",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0480",
+      "text": "I always find it funny when someone sees your tweet, doesn't like the underlying message, posts an angry response, and then blocks you.  And the tweet was something harmless like:  \"My only love is maximizing shareholder value\"  People are weird. Shareholder value is amazing",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0481",
+      "text": "Too much empathy will break you. Too little empathy will leave you rotting alone.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0482",
+      "text": "Once a week, lock yourself in a room and just think.  No phone. No distractions. Just you and your mind.  Uninterrupted thinking is a superpower—one that's rarely unlocked in our noisy, fast-paced world.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0483",
+      "text": "Being a people pleaser is a surefire way to be liked by everyone, but loved by no one.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    },
+    {
+      "id": "tweet-0484",
+      "text": "Being a people pleaser is a surefire way to be disliked by no one—while simultaneously being disregarded by everyone.",
+      "tone": "direct",
+      "formato": "tweet",
+      "topic": "ops",
+      "style": "neutral"
+    }
+  ]
+}
