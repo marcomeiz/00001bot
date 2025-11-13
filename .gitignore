@@ -1,0 +1,15 @@
+.DS_Store
+.env
+.cache/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.sqlite3
+*.db
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+
