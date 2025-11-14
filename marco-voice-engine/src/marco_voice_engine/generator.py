@@ -49,6 +49,7 @@ Forbidden:
 - Do not start every post with the same pattern.
 - Do not produce checklist-pattern posts unless the idea itself clearly demands it.
 If your output looks like a repeated template, you have failed.
+Language: English only. Never use Spanish or non-English words.
 """.strip()
 
 STYLE_CONTRACT_CHAOS = """
@@ -69,6 +70,7 @@ Forbidden:
 - Do not sound like a brand or a corporation.
 - Do not use "as an AI" or anything that breaks the character.
 - No generic listicles or sterile how-to threads.
+Language: English only. Never use Spanish or non-English words.
 """.strip()
 
 STYLE_CONTRACT_REPLY = """
@@ -79,6 +81,7 @@ One FUCKING sentence. Ugly is FUCKING good. DO NOT DEBATE OR ATTACK THE ORIGINAL
 You could be happy for the other person accomplishment, or just want to say something.
 
 Send it.
+Language: English only. Never use Spanish or non-English words.
 """.strip()
 
 
@@ -92,21 +95,26 @@ def _build_examples_block(examples: List[Dict]) -> str:
     return "\n".join(lines)
 
 
-def _build_prompt(idea: str, examples: List[Dict], mode: str = "ops") -> List[Dict[str, str]]:
+def _build_prompt(idea: str, examples: List[Dict], mode: str = "ops", custom_prompt: str | None = None) -> List[Dict[str, str]]:
     """
     Construye mensajes para un endpoint tipo /chat/completions.
     Pedimos 3 variantes separadas de forma parseable.
+    Si se proporciona un custom_prompt, se usa en lugar del sistema por defecto.
     """
 
     examples_block = _build_examples_block(examples)
 
-    system_content = (
-        STYLE_CONTRACT_OPS
-        if mode == "ops"
-        else STYLE_CONTRACT_CHAOS
-        if mode == "chaos"
-        else STYLE_CONTRACT_REPLY
-    )
+    # Use custom prompt if provided, otherwise use default system contracts
+    if custom_prompt:
+        system_content = custom_prompt
+    else:
+        system_content = (
+            STYLE_CONTRACT_OPS
+            if mode == "ops"
+            else STYLE_CONTRACT_CHAOS
+            if mode == "chaos"
+            else STYLE_CONTRACT_REPLY
+        )
 
     if mode == "reply":
         reply_examples = """
@@ -142,6 +150,9 @@ Return ONLY:
 2) A line with 'POST 2: ' followed by the second reply.
 3) A line with 'POST 3: ' followed by the third reply.
 No extra commentary.
+Language constraints:
+- Output must be strictly in English.
+- If the original tweet or idea is not in English, rewrite the reply in natural English without Spanish or mixed-language words.
 """.strip()
     else:
         user_content = f"""
@@ -174,6 +185,9 @@ Return ONLY:
 2) A line with 'POST 2: ' followed by the second post.
 3) A line with 'POST 3: ' followed by the third post.
 No extra commentary.
+Language constraints:
+- Output must be strictly in English.
+- If the idea text is not in English, rewrite the posts in natural English without Spanish or mixed-language words.
 """.strip()
 
     return [
@@ -208,6 +222,7 @@ def _call_llm(messages: List[Dict[str, str]], model_name: str, mode: str) -> str
         payload["stop"] = stop_sequences
 
     last_error: Exception | None = None
+    print(f"[GEN] model={model_name} mode={mode} endpoint={endpoint}")
     for attempt in range(3):
         try:
             resp = httpx.post(
@@ -221,16 +236,19 @@ def _call_llm(messages: List[Dict[str, str]], model_name: str, mode: str) -> str
             )
             resp.raise_for_status()
             data: Dict[str, Any] = resp.json()
+            print(f"[GEN] provider_status={resp.status_code} choices={len(data.get('choices', []))}")
             break
         except httpx.HTTPStatusError as err:
             last_error = err
             status = err.response.status_code if err.response else None
+            print(f"[GEN-ERR] status={status} attempt={attempt}")
             if status == 429 and attempt < 2:
                 time.sleep(2 ** attempt)
                 continue
             raise GenerationError(f"HTTP error from provider: {err}") from err
         except Exception as err:
             last_error = err
+            print(f"[GEN-ERR] attempt={attempt} err={err}")
             if attempt < 2:
                 time.sleep(1 + attempt)
                 continue
@@ -284,6 +302,7 @@ def _call_llm(messages: List[Dict[str, str]], model_name: str, mode: str) -> str
                 break
 
     if not content:
+        print("[GEN-ERR] empty_content")
         raise GenerationError(f"Empty response from LLM. Payload: {data}")
     return content
 
@@ -329,6 +348,7 @@ class Generator:
         tone: str | None = None,
         formato: str = "tweet",
         n_expected: int = 3,
+        custom_prompt: str | None = None,
     ) -> List[str]:
         if not idea or not idea.strip():
             raise GenerationError("Idea cannot be empty.")
@@ -347,7 +367,7 @@ class Generator:
             ),
         )
 
-        messages = _build_prompt(idea=idea, examples=examples, mode=self._mode)
+        messages = _build_prompt(idea=idea, examples=examples, mode=self._mode, custom_prompt=custom_prompt)
         raw = _call_llm(messages, model_name=self._model_name, mode=self._mode)
         variants = _parse_variants(raw)
 
